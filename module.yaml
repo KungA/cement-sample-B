@@ -1,0 +1,7 @@
+full-build:
+  deps:
+
+  build:
+    target: B.sln
+    configuration: Release
+
